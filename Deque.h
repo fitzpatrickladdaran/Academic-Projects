@@ -29,6 +29,7 @@ public:
 		this->next = nullptr;
 		this->prev = nullptr;
 	}
+	
 };
 
 template <class T>
