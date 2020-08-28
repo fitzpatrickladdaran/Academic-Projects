@@ -9,6 +9,7 @@ Last Updated: 27/08/2020
 
 */
 
+#include "statistics.h"
 #include <algorithm>
 #include <cmath>
 #include <iostream>;
