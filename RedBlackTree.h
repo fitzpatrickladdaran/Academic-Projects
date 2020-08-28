@@ -1,7 +1,7 @@
 /*
 RedBlackTree.h
 
-Red-Black Tree template class that implements an ordered map
+Red-Black Tree template class that implements an Ordered Map
 
 Authour: Fitz Laddaran
 Contact: fitzladdaran@gmail.com
