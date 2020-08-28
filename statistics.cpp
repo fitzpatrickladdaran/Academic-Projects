@@ -6,7 +6,6 @@ The program stores doubles and calculates some basic statistics
 Authour: Fitz Laddaran
 Contact: fitzladdaran@gmail.com
 Last Updated: 27/08/2020
-
 */
 
 #include "statistics.h"
