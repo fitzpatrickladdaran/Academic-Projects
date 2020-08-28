@@ -1,7 +1,7 @@
 /*
 Deque.h
 
-The program implements a Deque template class using a doubly linked list
+Deque template class using a Doubly Linked List
 
 Authour: Fitz Laddaran
 Contact: fitzladdaran@gmail.com
